@@ -1,0 +1,23 @@
+
+
+Public Access specifier:
+-----------------------------
+child class can access -> only protected and public members , and not private members
+other function or main() can access --> only public members , and not protected and private members
+
+protected Access specifier:
+-------------------------------
+child class can access -> only protected and public members , and not private members
+other function or main() can access --> cannot access any members
+
+private Access specifier->
+------------------------------
+child class can access -> only protected and public members , and not private members
+other function or main() can access --> cannot access any members
+
+note:
+By using only class object or class pointer we can access any class data member or class member function of that class,
+otherwise it is not possible to access these data members or member functions.
+
+
+ 
